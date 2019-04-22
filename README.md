@@ -17,8 +17,21 @@ warnings
 statsmodels
 
 ```
-$ pip install numpy
+$ pip install statsmodels
 ```
+
+### Source Data
+This project is based on data from  ...
+
+### Code Explanation
+* AC(log)_vol2.ipynb - implement autocorrelation for time-series modeling, with student stress level log-transformed 
+* GC(merged_data).ipynb - implement Granger Causality analysis on student stress level and other daily factors
+* baseline_evaluation.ipynb - baseline evaluation
+* combine_student_data.ipynb - data preprocessing for combing student data 
+
+
+
+
 
 ### Installing
 
