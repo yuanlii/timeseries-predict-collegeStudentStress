@@ -1,3 +1,7 @@
 ## Predict College Student Stress
 
-This project is a final project for SI671 Applied Data Mining. This project mainly includes two parts. First, we conduct Granger Causality Analysis to analyze the relationships between student stress and other factors. For the second part, we used three different methods -- Autoregressive (AR) Model, Moving Average(MA) model and an integrated approach (ARIMA) model to predict the overall student stress level. 
+### Data Source
+
+### Code Explanation
+
+### Output result
