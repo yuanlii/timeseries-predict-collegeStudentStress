@@ -21,12 +21,7 @@ $ pip install statsmodels
 ```
 
 ### Source Data
-This project is based on data from  ...
-
-The data set we will dive into is the students activities monitor data and the mental health survey results. The whole data set includes several aspects information, for example, the sensor data which record the daily activities of the students,
-and the survey results which indicate the mental health status of the students. The system will combine the two types of data and find the connection between physical activities and mental health status.
-
-StudentLife Dataset contains the sensor data, EMA data, survey responses and educational data. We would mainly focus on the data about students’ behavior and activities of how they interact with the world, for example, measurements of activities, behavior, events, exercise (from the EMA Data), and other measurements of activities, audio,conversation, etc. (from Sensor Data) would be interesting for further exploration.
+This project is based on StudentLife & Longitudinal Student Data collected by Dartmouth research center, data can be downloaded from [site](http://studentlife.cs.dartmouth.edu/dataset.html). It contains sensor data, EMA data, survey responses and educational data as well as other scales of students' activities. For this project, We mainly focus on EMA Data, Sensor Data and survey responsed.
 
 ### Code Explanation
 * AC(log)_vol2.ipynb - implement autocorrelation for time-series modeling, with student stress level log-transformed 
@@ -35,8 +30,7 @@ StudentLife Dataset contains the sensor data, EMA data, survey responses and edu
 * combine_student_data.ipynb - data preprocessing for combing student data 
 
 ### Conclusion
-* TODO
-* Detailed report
+* Detailed report can be downloaded from [here](https://github.com/yuanlii/college_student_stress_prediction/blob/master/project_report.pdf) 
 
 
 ## Collaborators
