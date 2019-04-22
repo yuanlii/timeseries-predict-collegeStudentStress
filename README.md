@@ -34,17 +34,19 @@ StudentLife Dataset contains the sensor data, EMA data, survey responses and edu
 * baseline_evaluation.ipynb - baseline evaluation
 * combine_student_data.ipynb - data preprocessing for combing student data 
 
+### Conclusion
+* TODO
+* Detailed report
 
 
 ## Collaborators
 
-* **Yuan Li ** - [PurpleBooth](https://github.com/PurpleBooth)
+* **Yuan Li ** - [github](https://github.com/yuanlii)
 * **Crystal Wang ** - [PurpleBooth](https://github.com/PurpleBooth)
 
 
 ## Acknowledgments
+Codes and tutorials below also contribute to this project.
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+* [时间序列预测全攻略](https://my.oschina.net/zhiyonghe/blog/906307):referenced for implementation of Dickey-Fuller test and time-series modeling
+* [手把手教你用 Python 实现针对时间序列预测的特征选择](https://cloud.tencent.com/developer/article/1077714) referenced for autocorrelation plot
