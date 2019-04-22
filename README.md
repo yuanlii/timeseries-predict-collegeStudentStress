@@ -36,7 +36,7 @@ This project is based on StudentLife & Longitudinal Student Data collected by Da
 ## Collaborators
 
 * **Yuan Li ** - [github](https://github.com/yuanlii)
-* **Crystal Wang ** - [PurpleBooth](https://github.com/PurpleBooth)
+* **Crystal Wang ** - [github](https://github.com/Crystalwang0124)
 
 
 ## Acknowledgments
