@@ -31,6 +31,7 @@ This project is based on StudentLife & Longitudinal Student Data collected by Da
 
 ### Conclusion
 * Detailed report can be downloaded from [here](https://github.com/yuanlii/college_student_stress_prediction/blob/master/project_report.pdf) 
+* project poster can be seen [here](https://github.com/yuanlii/college_student_stress_prediction/blob/master/project_poster.pdf)
 
 
 ## Collaborators
